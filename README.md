@@ -1,5 +1,5 @@
-**Phân tích Hiệu quả Hoạt động (DEA) của các Cảng Container tại Hải Phòng (2020-2024)
-**
+**Phân tích Hiệu quả Hoạt động (DEA) của các Cảng Container tại Hải Phòng (2020-2024)**
+
 
 Đây là một dự án nghiên cứu định lượng, áp dụng phương pháp Phân tích Vỏ bọc Dữ liệu (Data Envelopment Analysis - DEA) để đo lường và so sánh hiệu quả hoạt động của ba nhà khai thác cảng container lớn tại Hải Phòng trong giai đoạn 5 năm (2020-2024).
 
