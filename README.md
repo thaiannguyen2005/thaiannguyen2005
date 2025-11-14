@@ -4,12 +4,17 @@
 Đây là một dự án nghiên cứu định lượng, áp dụng phương pháp Phân tích Vỏ bọc Dữ liệu (Data Envelopment Analysis - DEA) để đo lường và so sánh hiệu quả hoạt động của ba nhà khai thác cảng container lớn tại Hải Phòng trong giai đoạn 5 năm (2020-2024).
 
 Các đơn vị được phân tích (DMUs):
-_VIP GREENPORT (A) 
-Công ty Cổ phần phát triển và đầu tư cảng Đình Vũ (B) 
-Cảng Hải An (C) 
-_
-**1. Phương pháp luận
-**
+
+1. VIP GREENPORT (A) 
+
+2. Công ty Cổ phần phát triển và đầu tư cảng Đình Vũ (B) 
+
+3. Cảng Hải An (C) 
+
+
+**1. Phương pháp luận**
+
+
 Nghiên cứu sử dụng mô hình DEA để đánh giá hiệu quả tương đối.
 Các biến đầu vào (Inputs): 
 
